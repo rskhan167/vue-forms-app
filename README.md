@@ -1,5 +1,7 @@
 # vue-forms-app
 
+Handling user inputs with forms in Vuejs
+ 
 ## Project setup
 ```
 npm install
